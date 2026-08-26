@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /home-v2/
+Disallow: /customized-space/
+
+Sitemap: https://www.weshre.com/sitemap.xml
